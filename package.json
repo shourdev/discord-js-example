@@ -1,0 +1,26 @@
+{
+  "name": "discord-js-example",
+  "version": "1.0.0",
+  "description": "A simple discord bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shourgamer2/discord-js-example"
+  },
+  "keywords": [
+    "Discord.js",
+    "node.js",
+    "discord-js",
+    "discord",
+    "discord-api"
+  ],
+  "author": "Shourjjo-Majumder (https://github.com/shourgamer2)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shourgamer2/discord-js-example/issues"
+  },
+  "homepage": "https://github.com/shourgamer2/discord-js-example#readme"
+}
