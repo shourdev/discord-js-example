@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/shourgamer2/discord-js-example/issues"
   },
-  "homepage": "https://github.com/shourgamer2/discord-js-example#readme"
+  "homepage": "https://github.com/shourgamer2/discord-js-example#readme",
+  "dependencies": {
+    "discord.js": "^13.8.1"
+  }
 }
