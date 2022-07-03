@@ -17,3 +17,4 @@ client.login('')
 ```sh
 node .
 ```
+And then invite it and then type ping 
